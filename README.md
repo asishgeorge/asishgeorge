@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hello. Welcome to my GitHub Profile. 
 
+🔭 I’m currently working in Innovation Incubator Advisory as a Software Engineer. 
+
+I am always down to create fun interesting projects. If you are one of the people who likes to create stuff, then let's connect. I would love to make stuff with you.
+
+📫  Contact me 
+ - Instagram: @asish.george
+ - Twitter: @asishgeorg
+ 
 <!--
 **asishgeorge/asishgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
