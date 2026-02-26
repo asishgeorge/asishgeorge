@@ -1,6 +1,6 @@
 ## Hello. Welcome to my GitHub Profile. 
 
-🔭 I’m currently working in Innovation Incubator Advisory as a Software Engineer. 
+🔭 I’m currently working in Ventureway Startup Ecosystem as a Technical Lead. 
 
 I am always down to create fun interesting projects. If you are one of the people who likes to create stuff, then let's connect. I would love to make stuff with you.
 
