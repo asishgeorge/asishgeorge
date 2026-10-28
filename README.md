@@ -1,8 +1,8 @@
 ## Hello. Welcome to my GitHub Profile. 
 
-🔭 I’m currently working in Ventureway Startup Ecosystem as a Technical Lead. 
+🔭 I’m currently a Master's student at the University of Victoria.
 
-I am always down to create fun interesting projects. If you are one of the people who likes to create stuff, then let's connect. I would love to make stuff with you.
+I am always up for creating fun, interesting projects. If you like to create stuff, let's connect. I would love to make stuff with you.
 
 📫  Contact me 
  - Instagram: @asish.george
